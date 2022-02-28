@@ -23,16 +23,3 @@ C:\OpenCloud\CoreERP\CoreERP.Data\obj\Debug\netcoreapp3.1\CoreERP.Data.csproj.Co
 C:\OpenCloud\CoreERP\CoreERP.Data\obj\Debug\netcoreapp3.1\CoreERP.Data.csproj.CopyComplete
 C:\OpenCloud\CoreERP\CoreERP.Data\obj\Debug\netcoreapp3.1\CoreERP.Data.dll
 C:\OpenCloud\CoreERP\CoreERP.Data\obj\Debug\netcoreapp3.1\CoreERP.Data.pdb
-C:\OpenCloud\CoreBackEnd\CoreERP.Data\bin\Debug\netcoreapp3.1\CoreERP.Data.deps.json
-C:\OpenCloud\CoreBackEnd\CoreERP.Data\bin\Debug\netcoreapp3.1\CoreERP.Data.dll
-C:\OpenCloud\CoreBackEnd\CoreERP.Data\bin\Debug\netcoreapp3.1\CoreERP.Data.pdb
-C:\OpenCloud\CoreBackEnd\CoreERP.Data\bin\Debug\netcoreapp3.1\CoreERP.Model.dll
-C:\OpenCloud\CoreBackEnd\CoreERP.Data\bin\Debug\netcoreapp3.1\CoreERP.Model.pdb
-C:\OpenCloud\CoreBackEnd\CoreERP.Data\obj\Debug\netcoreapp3.1\CoreERP.Data.csproj.AssemblyReference.cache
-C:\OpenCloud\CoreBackEnd\CoreERP.Data\obj\Debug\netcoreapp3.1\CoreERP.Data.GeneratedMSBuildEditorConfig.editorconfig
-C:\OpenCloud\CoreBackEnd\CoreERP.Data\obj\Debug\netcoreapp3.1\CoreERP.Data.AssemblyInfoInputs.cache
-C:\OpenCloud\CoreBackEnd\CoreERP.Data\obj\Debug\netcoreapp3.1\CoreERP.Data.AssemblyInfo.cs
-C:\OpenCloud\CoreBackEnd\CoreERP.Data\obj\Debug\netcoreapp3.1\CoreERP.Data.csproj.CoreCompileInputs.cache
-C:\OpenCloud\CoreBackEnd\CoreERP.Data\obj\Debug\netcoreapp3.1\CoreERP.Data.csproj.CopyComplete
-C:\OpenCloud\CoreBackEnd\CoreERP.Data\obj\Debug\netcoreapp3.1\CoreERP.Data.dll
-C:\OpenCloud\CoreBackEnd\CoreERP.Data\obj\Debug\netcoreapp3.1\CoreERP.Data.pdb

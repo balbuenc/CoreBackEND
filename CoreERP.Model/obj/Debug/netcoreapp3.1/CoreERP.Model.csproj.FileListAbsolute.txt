@@ -17,12 +17,3 @@ C:\OpenCloud\CoreERP\CoreERP.Model\obj\Debug\netcoreapp3.1\CoreERP.Model.csproj.
 C:\OpenCloud\CoreERP\CoreERP.Model\obj\Debug\netcoreapp3.1\CoreERP.Model.dll
 C:\OpenCloud\CoreERP\CoreERP.Model\obj\Debug\netcoreapp3.1\CoreERP.Model.pdb
 C:\OpenCloud\CoreERP\CoreERP.Model\obj\Debug\netcoreapp3.1\CoreERP.Model.csproj.AssemblyReference.cache
-C:\OpenCloud\CoreBackEnd\CoreERP.Model\bin\Debug\netcoreapp3.1\CoreERP.Model.deps.json
-C:\OpenCloud\CoreBackEnd\CoreERP.Model\bin\Debug\netcoreapp3.1\CoreERP.Model.dll
-C:\OpenCloud\CoreBackEnd\CoreERP.Model\bin\Debug\netcoreapp3.1\CoreERP.Model.pdb
-C:\OpenCloud\CoreBackEnd\CoreERP.Model\obj\Debug\netcoreapp3.1\CoreERP.Model.GeneratedMSBuildEditorConfig.editorconfig
-C:\OpenCloud\CoreBackEnd\CoreERP.Model\obj\Debug\netcoreapp3.1\CoreERP.Model.AssemblyInfoInputs.cache
-C:\OpenCloud\CoreBackEnd\CoreERP.Model\obj\Debug\netcoreapp3.1\CoreERP.Model.AssemblyInfo.cs
-C:\OpenCloud\CoreBackEnd\CoreERP.Model\obj\Debug\netcoreapp3.1\CoreERP.Model.csproj.CoreCompileInputs.cache
-C:\OpenCloud\CoreBackEnd\CoreERP.Model\obj\Debug\netcoreapp3.1\CoreERP.Model.dll
-C:\OpenCloud\CoreBackEnd\CoreERP.Model\obj\Debug\netcoreapp3.1\CoreERP.Model.pdb
