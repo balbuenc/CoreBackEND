@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7dcc15ec-490d-4a65-a2ed-db337487a634": {
+      "ProjectGuid": "7dcc15ec-490d-4a65-a2ed-db337487a634",
+      "DisplayName": "CoreERP.Data",
+      "ColorIndex": 0
+    },
+    "e888e648-a60e-47f7-b5a2-c11a0a211cbe": {
+      "ProjectGuid": "e888e648-a60e-47f7-b5a2-c11a0a211cbe",
+      "DisplayName": "CoreERP.API",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
